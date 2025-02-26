@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Dawood Khalid.
 
-## I'm a Generaive AI Python Developer.
+## I'm a Generative AI Python Developer.
 ![Alt Text](https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif)
 
 
