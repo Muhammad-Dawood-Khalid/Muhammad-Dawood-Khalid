@@ -16,7 +16,7 @@
 <table width="100">
 <tr>
      <td align='center'>
-        <img src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/HTML5-900x0.jpg" alt="HTML"  width="150px" height="100px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="https://th.bing.com/th/id/OIP.fKtEA6VSuCPh0nCy2VTnZQHaE8?pid=ImgDet&rs=1" alt="CSS"  width="150px" height="100px">
@@ -107,7 +107,6 @@
 ## Connect with Me 🤝
 
 <p align="center">
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-AbaidullahBhatti.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/muhammad-dawood-khalid-982a40262/"_blank"><img src="https://img.shields.io/badge/-Abaidullah%20Bhatti-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dawoodkhalid485@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-AbaidullahBhatti-D14836? style=flat&logo=Gmail&logoColor=white"/></a>
   
