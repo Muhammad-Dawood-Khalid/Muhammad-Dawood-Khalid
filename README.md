@@ -103,13 +103,13 @@
 
 <br />
 <br />
-
+<!--
 ## Connect with Me 🤝
 
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-dawood-khalid-982a40262/"_blank"><img src="https://img.shields.io/badge/-Muhammad-Dawood-Khalid?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dawoodkhalid485@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Muhammad-Dawood-Khalid? style=flat&logo=Gmail&logoColor=white"/></a>
-  
+  -->
  ## Some Community Projects & Resources
 <!--
 | Project :octocat:                                                                                           | Issues :bug:                                                                                                                                                                                                         | Open PRs :bell:                                                                                                                                                                                        | Closed PRs :fire:                                                                                                                                                                                                                                 |
