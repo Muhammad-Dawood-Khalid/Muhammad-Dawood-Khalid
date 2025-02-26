@@ -1,15 +1,15 @@
-# Hi 👋, I'm Muhammad.
+# Hi 👋, I'm Muhammad Dawood Khalid.
 
-## I'm a Web & Mobile Application Developer and SEO Expert.
+## I'm a Generaive AI Python Developer.
 ![Alt Text](https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif)
 
 
-- 🔭 I’m Currently working As a Full Stack Developer.
+- 🔭 I’m Currently working As a Python Developer (Beginner).
 - 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](#)** in Javascript & C++.
-- 👯 I’m looking to collaborate with other Developers.
-- 📢 Love to teach and inspire people's.
-- 🥅 2024 Goals: Contribute more to Open Source projects.
-- 📫 How to reach me **abaidullahbhatti751@gmail.com**
+- 👯 Developing problem solving skill by working on coding challenges and small projects.
+- 📢 Hands on experience debugging and troubleshooting Python code.
+- 🥅 2025 Goals: Contribute more to Open Source projects.
+- 📫 How to reach me **dawoodkhalid485@gmail.com**
 
 <h2><i>💻 Technology Stack and Tool's</i></h2>
 
@@ -108,8 +108,8 @@
 
 <p align="center">
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-AbaidullahBhatti.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://pk.linkedin.com/in/abaidullah-bhatti-23ba8925b"_blank"><img src="https://img.shields.io/badge/-Abaidullah%20Bhatti-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:abaidullahbhatti751@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-AbaidullahBhatti-D14836? style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-dawood-khalid-982a40262/"_blank"><img src="https://img.shields.io/badge/-Abaidullah%20Bhatti-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:dawoodkhalid485@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-AbaidullahBhatti-D14836? style=flat&logo=Gmail&logoColor=white"/></a>
   
  ## Some Community Projects & Resources
 <!--
